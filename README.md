@@ -16,7 +16,7 @@ The model was trained for 100 epochs, with early stopping set to kick in at 10, 
 			<p>Figure 1: A raw image sample of a normal lung</p>
 		</td>
 		<td align="center">
-			<img src="Images/mask_normal.jpeg" alt="Mask normal sample"/>
+			<img src="Images/rmask_normal.jpeg" alt="Mask normal sample"/>
 			<p>Figure 2: A masked image sample of a normal lung</p>
 		</td>
 	</tr>
